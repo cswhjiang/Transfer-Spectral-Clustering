@@ -1,3 +1,3 @@
-Source code for Transfer spectral clustering (TSC).
+Source code for Transfer Spectral Clustering (TSC).
 
 If there is any problem, please email me (cswhjiang [at] gmail.com).
